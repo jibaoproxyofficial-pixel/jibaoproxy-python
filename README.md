@@ -1,5 +1,10 @@
 # jibaoproxy-python
 
+[![PyPI version](https://img.shields.io/pypi/v/jibaoproxy.svg)](https://pypi.org/project/jibaoproxy/)
+[![Python versions](https://img.shields.io/pypi/pyversions/jibaoproxy.svg)](https://pypi.org/project/jibaoproxy/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Downloads](https://static.pepy.tech/badge/jibaoproxy)](https://pepy.tech/project/jibaoproxy)
+
 Official Python SDK for **[JiBao Proxy](https://jibaoproxy.com)** — 72M+ residential IPs across 200+ countries, plus datacenter, mobile, and static proxies.
 
 ```bash
